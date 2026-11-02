@@ -1,13 +1,6 @@
 {
-  "manifest_version": 1,
   "name": "万象牌抽卡",
   "version": "1.0.0",
-  "author": "zssa888",
-  "description": "万象牌抽卡模拟器，用于 Owlbear Rodeo 跑团",
-  "action": {
-    "title": "万象牌抽卡",
-    "popover": "https://4mae4bxtu6j83.doubao.link/app/app_17gvw9rqzdm",
-    "width": 1000,
-    "height": 700
-  }
+  "description": "万象牌抽卡模拟器",
+  "main": "https://4mae4bxtu6j83.doubao.link/app/app_17gvw9rqzdm"
 }
