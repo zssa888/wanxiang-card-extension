@@ -1,6 +1,5 @@
 {
   "manifest_version": 1,
-  "id": "wanxiang-card-extension",
   "name": "万象牌抽卡模拟器",
   "version": "1.0.0",
   "description": "万象牌抽卡，用于Owlbear Rodeo跑团，支持正式版/典藏馆纪念卡包",
