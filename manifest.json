@@ -7,7 +7,7 @@
   "main": "index.js",
   "actions": [
     {
-      "id": "openWanxiangCard",
+      "key": "openWanxiangCard",
       "name": "万象牌抽卡",
       "icon": "🃏"
     }
