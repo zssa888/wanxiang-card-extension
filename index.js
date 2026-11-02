@@ -1,6 +1,3 @@
-import '@owlbear-rodeo/sdk';
-
-// 启动的时候，在OBR动作栏添加按钮
 owlbear.addAction({
   name: "万象牌抽卡",
   icon: "🃏",
