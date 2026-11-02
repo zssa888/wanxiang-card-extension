@@ -1,4 +1,5 @@
 {
+  "manifest_version": 1,
   "id": "wanxiang-card-extension",
   "name": "万象牌抽卡模拟器",
   "version": "1.0.0",
